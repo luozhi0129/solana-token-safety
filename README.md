@@ -1,5 +1,7 @@
 # Solana Token Safety Check
 
+[![solana-token-safety MCP on mcprush](https://mcprush.com/badge/solana-token-safety-mcp/score.svg)](https://mcprush.com/to/solana-token-safety-mcp?ref=badge)
+
 Read-only MCP server that checks the safety of a Solana token or wallet from
 free public data sources only. **No API keys, no accounts, no secrets.**
 
